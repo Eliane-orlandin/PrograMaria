@@ -1,3 +1,6 @@
+import sys
+
+
 preco_cenoura = 4.5
 preco_oleo = 12
 preco_fermento = 15
@@ -21,5 +24,16 @@ def soma_ingredientes (tem_cenoura, tem_oleo, tem_fermento, tem_leite, tem_acuca
         total_compra += preco_ovos
     return total_compra
 
-total = soma_ingredientes(True, True, True, True, True, True)
-print("O total da compra é: R$", total)
+if __name__ == "__main__":
+    if len(sys.argv) < 7:
+        print("Uso: python prog01.py <tem_cenoura> <tem_acucar> <tem_ovos> <tem_oleo> <tem_fermento> <tem_leite>")
+        sys.exit(1)
+    terminal_tem_cenoura = sys.argv[1].lower() == "sim"
+    terminal_tem_acucar = sys.argv[2].lower() == "sim"
+    terminal_tem_ovos = sys.argv[3].lower() == "sim"
+    terminal_tem_oleo = sys.argv[4].lower() == "sim"
+    terminal_tem_fermento = sys.argv[5].lower() == "sim"
+    terminal_tem_leite = sys.argv[6].lower() == "sim"
+    
+    total = soma_ingredientes(terminal_tem_cenoura, terminal_tem_oleo, terminal_tem_fermento, terminal_tem_leite, terminal_tem_acucar, terminal_tem_ovos)
+    print("O total da compra é: R$", total)
