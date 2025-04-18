@@ -1,0 +1,116 @@
+## Links do curso
+
+### Módulo 1
+
+1.1 [Introdução ao Google Sheets](https://www.youtube.com/playlist?list=PLxjKFMYkZ9OcLat1b2CqGlSdkU8n3x0Uk)
+
+1.1 [Curso Planilha Google](https://www.youtube.com/playlist?list=PL_Q1UZN6PAWqVfN3IuiSMX0F0xwVG7Q2W)
+
+1.1 [Lógica de Programação para Iniciantes](https://www.youtube.com/playlist?list=PLAIgeRdMaoGVrASBxWcbAurQMzXJMArkg)
+
+### Módulo 2
+
+2.3 [Dados Estruturados e Não Estruturados](https://www.youtube.com/watch?v=Mkc4qvjDiFA)  
+
+
+2.4 [Criando uma tabela dinâmica no Planilhas Google](https://kondado.com.br/blog/blog/2023/04/17/criando-uma-tabela-dinamica-no-google-sheets/) 
+
+2.5 [Planilhas do Google » SE, IFS, SWITCH](https://wp.ufpel.edu.br/planilhasgoogle/modulo-intermediario/aula-1-funcoes-logicas/se-ifs-switch/#:~:text=A%20fun%C3%A7%C3%A3o%20SE()%20%C3%A9,a%20fun%C3%A7%C3%A3o%20na%20ordem%20correta)
+
+2.5 [Operadores de cálculo e precedência no Excel](https://support.microsoft.com/pt-br/office/operadores-de-c%C3%A1lculo-e-preced%C3%AAncia-no-excel-48be406d-4975-4d31-b2b8-7af9e0e2878a)
+
+2.5 [Operadores Lógicos ou Booleanos](https://wp.ufpel.edu.br/planilhasgoogle/modulo-intermediario/aula-1-funcoes-logicas/ou-e-nao/)
+
+2.5 [Estruturas condicionais e de repetição](https://www.treinaweb.com.br/blog/estruturas-condicionais-e-de-repeticao)
+
+2.5 [Planilha de gabarito](https://docs.google.com/spreadsheets/d/1ZawotZ7DUxxASkYEXhFRRhXNDZ0RUId0/edit?gid=772299518#gid=772299518)
+
+2.6 [Criar e usar tabelas dinâmicas](https://support.google.com/docs/answer/1272900?hl=pt-BR&co=GENIE.Platform%3DDesktop)
+
+2.6 [Gabaritos de cruzando dados](https://docs.google.com/spreadsheets/d/1DMyr9F-oCOqhltlvDeoa6yGi4uz3DfDS/edit?gid=2019465775#gid=2019465775)
+
+2.6 [Gênero e nível de ensino](https://docs.google.com/spreadsheets/d/1DMyr9F-oCOqhltlvDeoa6yGi4uz3DfDS/edit?gid=237762157#gid=237762157)
+
+## Módulo 3
+3.1 Instalação do Python 
+[Windows](https://docs.google.com/presentation/d/1LZfKkNZDI739BLCrjWtix53LOTrVUnoRbu0e-_bTJu0/edit#slide=id.g18b39569217_0_0)
+[MacOS X](https://python.org.br/instalacao-mac/)
+[MacOS](https://www.youtube.com/watch?v=_5X7aY5Zxno)
+[Linux](https://python.org.br/instalacao-linux/)
+[Linux](https://www.youtube.com/watch?v=72PJBhXFC8I)
+
+3.0 Site para fazer o download:
+[Python](https://www.python.org/)
+
+3.0 [Introdução à programação com python](https://files.cdn.thinkific.com/file_uploads/584413/attachments/b13/169/967/Introdu%C3%A7%C3%A3o_%C3%A0_programa%C3%A7%C3%A3o_com_python.pdf)
+
+3.1 [O que é Python? — um guia completo para iniciar nessa linguagem de programação](https://www.alura.com.br/artigos/python)
+
+3.1 [Curso de Programação em Python para Iniciantes | Aula 01 | PyLadies BH](https://www.youtube.com/watch?v=O2xKiMl-d7Y&list=PL70CUfm2J_8SXFHovpVUbq8lB2JSuUXgk)
+
+3.1 [Indicação de livro para compra (caso tenha interesse)](https://python.nilo.pro.br/)
+
+3.2 [Condicionais](https://wp.ufpel.edu.br/diehl/files/2017/09/lec3_algo.pdf)
+
+3.2 [Tipos de Variáveis disponíveis no Python](https://pythonacademy.com.br/blog/tipos-de-variaveis-no-python)
+
+3.2 [Guia Completo sobre Variáveis Em Python: Tudo o que Você Precisa Saber](https://awari.com.br/guia-completo-sobre-variaveis-em-python-tudo-o-que-voce-precisa-saber/)
+
+3.2 [O que são funções Python e como usá-las?](https://ebaconline.com.br/blog/funcoes-python)
+
+3.2 [Aprenda a criar Funções em Python](https://pythonacademy.com.br/blog/funcoes-em-python)
+
+3.2 [Python: O que significa if __name__ == '__main__'? | Alura](https://www.alura.com.br/artigos/o-que-significa-if-name-main-no-python)
+
+3.3 [Como instalar o Jupyter](https://medium.com/horadecodar/como-instalar-o-jupyter-notebook-windows-e-linux-20701fc583c)
+
+3.4 [Cookbook Pandas](https://pandas.pydata.org/docs/user_guide/cookbook.html)
+
+3.4 [Pandas cheat sheet](https://drive.google.com/file/d/1lEoxFLVawdBw4cmLZ74yYLD20j35hJaY/view)
+
+3.4 [Kaggle](https://www.kaggle.com/)
+
+3.4 [Licitações](https://portaldatransparencia.gov.br/pagina-interna/603389-dicionario-de-dados-licitacoes)
+
+3.4 [Notebooks](https://portaldatransparencia.gov.br/pagina-interna/603389-dicionario-de-dados-licitacoes)
+
+3.5 [Desvendando o poder da filtragem de dados no Pandas](https://www.youtube.com/watch?v=d5DPDxpjMN0)
+
+3.5 [Desvendando o Poder do GroupBy no Pandas - Balaio Científico](https://balaiocientifico.com/python/groupby-no-pandas/)
+
+3.5 [Tabela Dinâmica em Pandas, explicada – Vooo – Insights](https://www.vooo.pro/insights/pivot-table-em-pandas-explicado/)
+
+3.5 [Pandas  Crosstab: Criar Tabelas de Cruzamento Simples em Python](https://docs.kanaries.net/pt/topics/Pandas/pandas-crosstab)
+
+## Módulo 4
+
+4.1 [Análise Exploratória de Dados. O Papel da Estatística na Análise](https://medium.com/@habbema/an%C3%A1lise-explorat%C3%B3ria-de-dados-e551b5f5e5d1)
+
+4.1 [Estatística básica - Quer que desenhe](https://www.youtube.com/watch?v=tuzbYoeum7E)
+
+4.1 [Introdução à estatística: média, mediana e moda (vídeo)](https://pt.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/measuring-center-quantitative/v/statistics-intro-mean-median-and-mode#:~:text=A%20m%C3%A9dia%20de%20um%20conjunto,em%20um%20conjunto%20de%20dados)
+
+4.2 [Dados ausentes no Pandas: tratamento de dados em Python](https://hub.asimov.academy/tutorial/dados-ausentes-no-pandas-tratamento-de-dados-em-python/)
+
+4.2 [Tudo sobre valores missing no Python!](https://www.youtube.com/watch?v=q2XWJD0CNUk)
+
+4.2 [Técnicas para lidar com dados faltantes em um projeto de ciência de dados](https://medium.com/data-hackers/feature-engineering-t%C3%A9cnicas-para-lidar-com-dados-faltantes-em-um-projeto-de-ci%C3%AAncia-de-dados-debdd57eb662)
+
+4.2 [Tudo sobre valores missing no Python!](https://www.youtube.com/watch?v=q2XWJD0CNUk)
+
+4.2 [Técnicas para lidar com dados faltantes em um projeto de ciência de dados](https://medium.com/data-hackers/feature-engineering-t%C3%A9cnicas-para-lidar-com-dados-faltantes-em-um-projeto-de-ci%C3%AAncia-de-dados-debdd57eb662)
+
+4.2 [O que são dados missing?](https://didatica.tech/o-que-sao-dados-missing/)
+
+4.2 [Como lidar com dados faltantes (NaN) em um Dataset](https://www.youtube.com/watch?v=k1zi4EwIXoc)
+
+4.3 [Entendendo e Interpretando Boxplots com Python](https://hub.asimov.academy/tutorial/entendendo-e-interpretando-boxplots-com-python/)
+
+4.3 [Identificação de Outliers: Estatística Básica usando o Python](https://medium.com/@thiago.dejesus0705/identifica%C3%A7%C3%A3o-de-outliers-estat%C3%ADstica-b%C3%A1sica-usando-o-python-2e25d2b54cd1)
+
+4.3 [Como detectar e tratar outliers com Python](https://medium.com/@lucapqg/como-detectar-e-tratar-outliers-com-python-ca2cf088c160)
+
+4.4 [Construindo Intervalos de Confiança com Scipy e Statsmodel](https://medium.com/@ingoreichertjr/construindo-intervalos-de-confian%C3%A7a-com-scipy-e-statsmodel-1e247a0d9736)
+
+4.4 [Python: Como calcular o intervalo de confiança de 95%](https://awari.com.br/python-como-calcular-o-intervalo-de-confianca-de-95percent/)
+
