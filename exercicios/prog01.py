@@ -25,9 +25,7 @@ def soma_ingredientes (tem_cenoura, tem_oleo, tem_fermento, tem_leite, tem_acuca
     return total_compra
 
 if __name__ == "__main__":
-    if len(sys.argv) < 7:
-        print("Uso: python prog01.py <tem_cenoura> <tem_acucar> <tem_ovos> <tem_oleo> <tem_fermento> <tem_leite>")
-        sys.exit(1)
+    
     terminal_tem_cenoura = sys.argv[1].lower() == "sim"
     terminal_tem_acucar = sys.argv[2].lower() == "sim"
     terminal_tem_ovos = sys.argv[3].lower() == "sim"
