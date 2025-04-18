@@ -114,3 +114,16 @@
 
 4.4 [Python: Como calcular o intervalo de confiança de 95%](https://awari.com.br/python-como-calcular-o-intervalo-de-confianca-de-95percent/)
 
+## Módulo 5
+
+5.1 [Feature Engineering: preparando dados para aprendizado de máquina](https://blog.ateliware.com/feature-engineering/)
+
+5.3 [Como Calcular o Coeficiente de Correlação Linear em Python](https://hub.asimov.academy/tutorial/como-calcular-o-coeficiente-de-correlacao-linear-em-python/)
+
+5.3 [Análise de Correlação utilizando Python](https://medium.com/@joaopedro.thereziano/an%C3%A1lise-de-correla%C3%A7%C3%A3o-utilizando-python-30bcf29423c3)
+
+5.3 [Correlação de Variáveis Categóricas: medindo relações além dos números](https://www.linkedin.com/pulse/correla%C3%A7%C3%A3o-de-vari%C3%A1veis-categ%C3%B3ricas-medindo-rela%C3%A7%C3%B5es-al%C3%A9m-castro/)
+
+5.4 [Clean code aplicado a Python: 7 práticas avançadas](https://medium.com/grupoolxtech/clean-code-aplicado-a-python-7-pr%C3%A1ticas-avan%C3%A7adas-e658b9d0152)
+
+5.4 [Clean Code - Guia e Exemplos](https://balta.io/artigos/clean-code)
