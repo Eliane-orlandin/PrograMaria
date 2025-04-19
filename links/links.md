@@ -127,3 +127,15 @@
 5.4 [Clean code aplicado a Python: 7 práticas avançadas](https://medium.com/grupoolxtech/clean-code-aplicado-a-python-7-pr%C3%A1ticas-avan%C3%A7adas-e658b9d0152)
 
 5.4 [Clean Code - Guia e Exemplos](https://balta.io/artigos/clean-code)
+
+## Módulo 6
+
+6.1 [Aula 01 - Introdução a Banco de dados — Nickerson Ferreira](https://docente.ifrn.edu.br/nickersonferreira/disciplinas/programacao-com-acesso-a-banco-de-dados-3o-ano/aula-01-introducao-a-banco-de-dados/view)
+
+6.1 [Aula 01 - Visão geral sobre banco de dados e motivação](https://www.youtube.com/watch?v=pmAxIs5U1KI)
+
+6.1 [Conceitos Fundamentais de Banco de Dados](https://www.devmedia.com.br/conceitos-fundamentais-de-banco-de-dados/1649)
+
+6.1 [Resumo de Banco de Dados - Fundamentos, teoria, conceitos](https://www.studocu.com/pt-br/document/universidade-paulista/banco-de-dados/resumo-de-banco-de-dados-fundamentos-teoria-conceitos/28893512)
+
+6.1 [Introdução à Banco de Dados](https://docs.ufpr.br/~ademirlp/BancoDados.pdf)
