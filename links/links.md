@@ -10,12 +10,11 @@
 
 ### Módulo 2
 
-2.3 [Dados Estruturados e Não Estruturados](https://www.youtube.com/watch?v=Mkc4qvjDiFA)  
+2.3 [Dados Estruturados e Não Estruturados](https://www.youtube.com/watch?v=Mkc4qvjDiFA)
 
+2.4 [Criando uma tabela dinâmica no Planilhas Google](https://kondado.com.br/blog/blog/2023/04/17/criando-uma-tabela-dinamica-no-google-sheets/)
 
-2.4 [Criando uma tabela dinâmica no Planilhas Google](https://kondado.com.br/blog/blog/2023/04/17/criando-uma-tabela-dinamica-no-google-sheets/) 
-
-2.5 [Planilhas do Google » SE, IFS, SWITCH](https://wp.ufpel.edu.br/planilhasgoogle/modulo-intermediario/aula-1-funcoes-logicas/se-ifs-switch/#:~:text=A%20fun%C3%A7%C3%A3o%20SE()%20%C3%A9,a%20fun%C3%A7%C3%A3o%20na%20ordem%20correta)
+2.5 [Planilhas do Google » SE, IFS, SWITCH](<https://wp.ufpel.edu.br/planilhasgoogle/modulo-intermediario/aula-1-funcoes-logicas/se-ifs-switch/#:~:text=A%20fun%C3%A7%C3%A3o%20SE()%20%C3%A9,a%20fun%C3%A7%C3%A3o%20na%20ordem%20correta>)
 
 2.5 [Operadores de cálculo e precedência no Excel](https://support.microsoft.com/pt-br/office/operadores-de-c%C3%A1lculo-e-preced%C3%AAncia-no-excel-48be406d-4975-4d31-b2b8-7af9e0e2878a)
 
@@ -32,7 +31,8 @@
 2.6 [Gênero e nível de ensino](https://docs.google.com/spreadsheets/d/1DMyr9F-oCOqhltlvDeoa6yGi4uz3DfDS/edit?gid=237762157#gid=237762157)
 
 ## Módulo 3
-3.1 Instalação do Python 
+
+3.1 Instalação do Python
 [Windows](https://docs.google.com/presentation/d/1LZfKkNZDI739BLCrjWtix53LOTrVUnoRbu0e-_bTJu0/edit#slide=id.g18b39569217_0_0)
 [MacOS X](https://python.org.br/instalacao-mac/)
 [MacOS](https://www.youtube.com/watch?v=_5X7aY5Zxno)
@@ -60,7 +60,7 @@
 
 3.2 [Aprenda a criar Funções em Python](https://pythonacademy.com.br/blog/funcoes-em-python)
 
-3.2 [Python: O que significa if __name__ == '__main__'? | Alura](https://www.alura.com.br/artigos/o-que-significa-if-name-main-no-python)
+3.2 [Python: O que significa if **name** == '**main**'? | Alura](https://www.alura.com.br/artigos/o-que-significa-if-name-main-no-python)
 
 3.3 [Como instalar o Jupyter](https://medium.com/horadecodar/como-instalar-o-jupyter-notebook-windows-e-linux-20701fc583c)
 
@@ -80,7 +80,7 @@
 
 3.5 [Tabela Dinâmica em Pandas, explicada – Vooo – Insights](https://www.vooo.pro/insights/pivot-table-em-pandas-explicado/)
 
-3.5 [Pandas  Crosstab: Criar Tabelas de Cruzamento Simples em Python](https://docs.kanaries.net/pt/topics/Pandas/pandas-crosstab)
+3.5 [Pandas Crosstab: Criar Tabelas de Cruzamento Simples em Python](https://docs.kanaries.net/pt/topics/Pandas/pandas-crosstab)
 
 ## Módulo 4
 
@@ -139,3 +139,11 @@
 6.1 [Resumo de Banco de Dados - Fundamentos, teoria, conceitos](https://www.studocu.com/pt-br/document/universidade-paulista/banco-de-dados/resumo-de-banco-de-dados-fundamentos-teoria-conceitos/28893512)
 
 6.1 [Introdução à Banco de Dados](https://docs.ufpr.br/~ademirlp/BancoDados.pdf)
+
+6.2 [MER e DER: Definições, Banco de Dados e Exemplos](https://www.alura.com.br/artigos/mer-e-der-funcoes)
+
+6.2 [Modelagem de Bancos de Dados](https://www.devmedia.com.br/mer-e-der-modelagem-de-bancos-de-dados/14332)
+
+6.2 [SQL (Chave primária X chave estrangeira)](https://medium.com/@dev.daniel.amorim/sql-chave-prim%C3%A1ria-x-chave-estrangeira-e925a8799f8f)
+
+6.2 [Download Dbeaver ](https://dbeaver.io/download/)
