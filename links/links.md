@@ -147,3 +147,11 @@
 6.2 [SQL (Chave primária X chave estrangeira)](https://medium.com/@dev.daniel.amorim/sql-chave-prim%C3%A1ria-x-chave-estrangeira-e925a8799f8f)
 
 6.2 [Download Dbeaver ](https://dbeaver.io/download/)
+
+6.3 [O que é SQL](https://www.alura.com.br/artigos/o-que-e-sql)
+
+6.3 [Tipos de linguagem do SQL e seus comandos](https://www.dio.me/articles/tipos-de-linguagem-sql)
+
+6.3 [New Table Creation - Dbeaver documentation](https://dbeaver.com/docs/dbeaver/New-Table-Creation/)
+
+6.3 [Passo a Passo: Aprenda Como Criar Tabelas no Sql](https://awari.com.br/passo-a-passo-aprenda-como-criar-tabelas-no-sql-e-organize-seus-dados-de-forma-eficiente/)
