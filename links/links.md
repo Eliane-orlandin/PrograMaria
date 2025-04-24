@@ -155,3 +155,5 @@
 6.3 [New Table Creation - Dbeaver documentation](https://dbeaver.com/docs/dbeaver/New-Table-Creation/)
 
 6.3 [Passo a Passo: Aprenda Como Criar Tabelas no Sql](https://awari.com.br/passo-a-passo-aprenda-como-criar-tabelas-no-sql-e-organize-seus-dados-de-forma-eficiente/)
+
+6.4 [Playlist maravilhosa da Kizzy](https://www.youtube.com/watch?v=vyTA2uG0uX8&list=PL5TJqBvpXQv5RqE96suy_0clnWE3ZnnZC)
