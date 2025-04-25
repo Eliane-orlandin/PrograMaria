@@ -157,3 +157,11 @@
 6.3 [Passo a Passo: Aprenda Como Criar Tabelas no Sql](https://awari.com.br/passo-a-passo-aprenda-como-criar-tabelas-no-sql-e-organize-seus-dados-de-forma-eficiente/)
 
 6.4 [Playlist maravilhosa da Kizzy](https://www.youtube.com/watch?v=vyTA2uG0uX8&list=PL5TJqBvpXQv5RqE96suy_0clnWE3ZnnZC)
+
+6.5 [SQL JOIN: Aprenda INNER, LEFT, RIGHT, FULL e CROSS | Alura](https://www.alura.com.br/artigos/join-em-sql)
+
+6.5 [Desvendando a cláusula GROUP BY - Artigo sql magazine 47](https://www.devmedia.com.br/desvendando-a-clausula-group-by-artigo-sql-magazine-47/8082)
+
+6.5 [Exemplos com Group By e com a cláusula Having - Totalizando Dados: SQL Server 2008 - Parte 2](https://www.devmedia.com.br/exemplos-com-group-by-e-com-a-clausula-having-totalizando-dados-sql-server-2008-parte-2/19839)
+
+6.5 [Tutorial de Group By do SQL: Count, Sum, Average e instrução Having explicadas](https://www.freecodecamp.org/portuguese/news/tutorial-de-group-do-sql-count-sum-average-e-instrucao-having-explicadas/)
