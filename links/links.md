@@ -165,3 +165,11 @@
 6.5 [Exemplos com Group By e com a cláusula Having - Totalizando Dados: SQL Server 2008 - Parte 2](https://www.devmedia.com.br/exemplos-com-group-by-e-com-a-clausula-having-totalizando-dados-sql-server-2008-parte-2/19839)
 
 6.5 [Tutorial de Group By do SQL: Count, Sum, Average e instrução Having explicadas](https://www.freecodecamp.org/portuguese/news/tutorial-de-group-do-sql-count-sum-average-e-instrucao-having-explicadas/)
+
+6.6 [SQL: IN](https://www.devmedia.com.br/sql-in/41177)
+
+6.6 [String Python: criando, formatando e manipulando strings | Homehost](https://www.homehost.com.br/blog/pythondjango/string-python/)
+
+6.6 [Tutorial de como executar consultas SQL em Python e R | DataCamp](https://www.datacamp.com/pt/tutorial/tutorial-how-to-execute-sql-queries-in-r-and-python)
+
+6.6 [Detalhando os Diferentes Tipos de Leitura e suas parâmetros Função `read()` no Pandas - DEV Community](https://dev.to/franciscojdsjr/detalhando-os-diferentes-tipos-de-leitura-e-suas-parametros-funcao-read-no-pandas-4kib)
