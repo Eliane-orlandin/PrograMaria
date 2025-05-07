@@ -179,3 +179,17 @@
 7.1 [Junk Charts Trifecta Checkup: The Definitive Guide](https://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html)
 
 7.1 [Os 10 melhores blogs de visualização de dados para seguir](https://www.tableau.com/pt-br/learn/articles/best-data-visualization-blogs)
+
+7.2 [10 princípios básicos da visualização de dados – Farol Business Intelligence](https://farolbi.com.br/visualizacao-de-dados/)
+
+7.2 [Qual Gráfico Devo Usar?](https://estatisticafacil.org/2020/10/07/grafico-metodo-simples/)
+
+7.2 [Diferentes tipos de gráficos para visualização de dados](https://www.opservices.com.br/diferentes-tipos-de-graficos/)
+
+7.2 [https://pt.venngage.com/](https://pt.venngage.com/)
+
+7.2 [Tudo o que você precisa saber sobre gráficos de pizza.](https://pt.venngage.com/blog/grafico-de-pizza/#:~:text=A%20raz%C3%A3o%20mais%20%C3%B3bvia%20para,seus%20dados%20n%C3%A3o%20somar%C3%A3o%20100%25)
+
+7.2 [Um guia completo sobre o gráfico de linhas](https://pt.venngage.com/blog/grafico-de-linhas/)
+
+7.2 [O que é um gráfico de barras e mais de 20 modelos de gráfico de barras](https://pt.venngage.com/blog/grafico-de-barras/)
