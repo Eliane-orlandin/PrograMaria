@@ -173,3 +173,9 @@
 6.6 [Tutorial de como executar consultas SQL em Python e R | DataCamp](https://www.datacamp.com/pt/tutorial/tutorial-how-to-execute-sql-queries-in-r-and-python)
 
 6.6 [Detalhando os Diferentes Tipos de Leitura e suas parâmetros Função `read()` no Pandas - DEV Community](https://dev.to/franciscojdsjr/detalhando-os-diferentes-tipos-de-leitura-e-suas-parametros-funcao-read-no-pandas-4kib)
+
+7.1 [David McCandless e a beleza na visualização de dados - Labvi](https://labvis.eba.ufrj.br/david-mccandless-e-beleza-na-visualizacao-de-dados/)
+
+7.1 [Junk Charts Trifecta Checkup: The Definitive Guide](https://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html)
+
+7.1 [Os 10 melhores blogs de visualização de dados para seguir](https://www.tableau.com/pt-br/learn/articles/best-data-visualization-blogs)
