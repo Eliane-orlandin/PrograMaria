@@ -193,3 +193,9 @@
 7.2 [Um guia completo sobre o gráfico de linhas](https://pt.venngage.com/blog/grafico-de-linhas/)
 
 7.2 [O que é um gráfico de barras e mais de 20 modelos de gráfico de barras](https://pt.venngage.com/blog/grafico-de-barras/)
+
+7.3 [Data Visualization: conhecendo as bibliotecas do Python | Alura](https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python)
+
+7.3 [Aula 9 - Visualização de Dados](https://www.kaggle.com/code/vmorenojr/aula-9-visualiza-o-de-dados)
+
+7.3 [Visualização de Dados Interativa com Plotly: Guia Prático em Python | by Guilherme Datt | Medium](https://medium.com/@guilhermedatt/visualiza%C3%A7%C3%A3o-de-dados-interativa-com-plotly-guia-pr%C3%A1tico-em-python-f46cef6065f2)
