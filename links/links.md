@@ -207,3 +207,9 @@
 7.5 [Painel de Visualização de Dados (dashboard): Narrando o Impacto Social Positivo - Parte 2](https://www.portaldoimpacto.com/painel-de-visualizacao-de-dados-dashboard-narrando-o-impacto-social-positivo-parte-2)
 
 7.5 [O poder do Storytelling no Power BI e como criar Dashboards incríveis - Xperiun](https://xperiun.com/blog/o-poder-do-storytelling-no-power-bi-e-como-criar-dashboards-incriveis/)
+
+7.6 [Documento do Looker Studio](https://cloud.google.com/looker/docs/looker-core?hl=pt-br)
+
+7.6 [Tutoriais do Looker Studio](https://www.youtube.com/watch?v=-FWszJyX8JM)
+
+7.6 [Comunidade do Looker Studio](https://www.googlecloudcommunity.com/gc/Looker-Studio/bd-p/looker-studio-pro?hl=en&visit_id=638825259987016267-3627397855&rd=1)
