@@ -213,3 +213,7 @@
 7.6 [Tutoriais do Looker Studio](https://www.youtube.com/watch?v=-FWszJyX8JM)
 
 7.6 [Comunidade do Looker Studio](https://www.googlecloudcommunity.com/gc/Looker-Studio/bd-p/looker-studio-pro?hl=en&visit_id=638825259987016267-3627397855&rd=1)
+
+7.7 [AULA Looker Studio do ZERO para INICIANTES (Google Data Studio)](https://www.youtube.com/watch?v=7oEZpcGrzZY&list=PLWkWx5Q7XXxmxiUK4pneMUqVYtBXG5b9t)
+
+7.7 [Adicionar gráficos e controles ao relatório - Ajuda do Looker Studio](https://support.google.com/looker-studio/answer/6291062?hl=pt#zippy=%2Cneste-artigo)
