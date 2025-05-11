@@ -201,3 +201,9 @@
 7.3 [Visualização de Dados Interativa com Plotly: Guia Prático em Python | by Guilherme Datt | Medium](https://medium.com/@guilhermedatt/visualiza%C3%A7%C3%A3o-de-dados-interativa-com-plotly-guia-pr%C3%A1tico-em-python-f46cef6065f2)
 
 7.3 [Kanggle](https://www.kaggle.com/code/educfrio/an-lise-explorat-ria-de-dados/input)
+
+7.4 [Dashboard: o que é, como fazer e 4 principais ferramentas](https://www.siteware.com.br/blog/gestao-estrategica/dashboard/)
+
+7.5 [Painel de Visualização de Dados (dashboard): Narrando o Impacto Social Positivo - Parte 2](https://www.portaldoimpacto.com/painel-de-visualizacao-de-dados-dashboard-narrando-o-impacto-social-positivo-parte-2)
+
+7.5 [O poder do Storytelling no Power BI e como criar Dashboards incríveis - Xperiun](https://xperiun.com/blog/o-poder-do-storytelling-no-power-bi-e-como-criar-dashboards-incriveis/)
