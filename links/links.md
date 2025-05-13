@@ -219,3 +219,11 @@
 7.7 [Adicionar gráficos e controles ao relatório - Ajuda do Looker Studio](https://support.google.com/looker-studio/answer/6291062?hl=pt#zippy=%2Cneste-artigo)
 
 7.7 [Looker do zero](https://www.youtube.com/watch?v=7oEZpcGrzZY&pp=0gcJCdgAo7VqN5tD)
+
+8.1 [O que é Machine Learning? | Alura]()
+
+8.1 [O que é Inteligência Artificial? e o que NÃO É Também! | IA Descomplicada #01](https://www.youtube.com/watch?v=pO0wlaxqWXg&list=PL5TJqBvpXQv4vYX3Ki2Kn3MLYIiny1a5H)
+
+8.1 [O que é MACHINE LEARNING? Introdução ao APRENDIZADO DE MÁQUINA | Machine Learning #1](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv6EuU821pKje6q-yfPMO8re&index=8)
+
+8.1 [Regressão Linear?. Um dos modelos de machine learning mais… | by Laura Damaceno | Medium](https://medium.com/@lauradatatalks/regress%C3%A3o-linear-6a7f247c3e29)
