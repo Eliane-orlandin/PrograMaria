@@ -217,3 +217,5 @@
 7.7 [AULA Looker Studio do ZERO para INICIANTES (Google Data Studio)](https://www.youtube.com/watch?v=7oEZpcGrzZY&list=PLWkWx5Q7XXxmxiUK4pneMUqVYtBXG5b9t)
 
 7.7 [Adicionar gráficos e controles ao relatório - Ajuda do Looker Studio](https://support.google.com/looker-studio/answer/6291062?hl=pt#zippy=%2Cneste-artigo)
+
+7.7 [Looker do zero](https://www.youtube.com/watch?v=7oEZpcGrzZY&pp=0gcJCdgAo7VqN5tD)
