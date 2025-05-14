@@ -82,7 +82,7 @@
 
 3.5 [Pandas Crosstab: Criar Tabelas de Cruzamento Simples em Python](https://docs.kanaries.net/pt/topics/Pandas/pandas-crosstab)
 
-## Módulo 4
+### Módulo 4
 
 4.1 [Análise Exploratória de Dados. O Papel da Estatística na Análise](https://medium.com/@habbema/an%C3%A1lise-explorat%C3%B3ria-de-dados-e551b5f5e5d1)
 
@@ -114,7 +114,7 @@
 
 4.4 [Python: Como calcular o intervalo de confiança de 95%](https://awari.com.br/python-como-calcular-o-intervalo-de-confianca-de-95percent/)
 
-## Módulo 5
+### Módulo 5
 
 5.1 [Feature Engineering: preparando dados para aprendizado de máquina](https://blog.ateliware.com/feature-engineering/)
 
@@ -128,7 +128,7 @@
 
 5.4 [Clean Code - Guia e Exemplos](https://balta.io/artigos/clean-code)
 
-## Módulo 6
+### Módulo 6
 
 6.1 [Aula 01 - Introdução a Banco de dados — Nickerson Ferreira](https://docente.ifrn.edu.br/nickersonferreira/disciplinas/programacao-com-acesso-a-banco-de-dados-3o-ano/aula-01-introducao-a-banco-de-dados/view)
 
@@ -173,6 +173,8 @@
 6.6 [Tutorial de como executar consultas SQL em Python e R | DataCamp](https://www.datacamp.com/pt/tutorial/tutorial-how-to-execute-sql-queries-in-r-and-python)
 
 6.6 [Detalhando os Diferentes Tipos de Leitura e suas parâmetros Função `read()` no Pandas - DEV Community](https://dev.to/franciscojdsjr/detalhando-os-diferentes-tipos-de-leitura-e-suas-parametros-funcao-read-no-pandas-4kib)
+
+### Módulo 7
 
 7.1 [David McCandless e a beleza na visualização de dados - Labvi](https://labvis.eba.ufrj.br/david-mccandless-e-beleza-na-visualizacao-de-dados/)
 
@@ -219,6 +221,8 @@
 7.7 [Adicionar gráficos e controles ao relatório - Ajuda do Looker Studio](https://support.google.com/looker-studio/answer/6291062?hl=pt#zippy=%2Cneste-artigo)
 
 7.7 [Looker do zero](https://www.youtube.com/watch?v=7oEZpcGrzZY&pp=0gcJCdgAo7VqN5tD)
+
+### Módulo 8
 
 8.1 [O que é Machine Learning? | Alura]()
 
