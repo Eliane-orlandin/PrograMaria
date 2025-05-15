@@ -30,7 +30,7 @@
 
 2.6 [Gênero e nível de ensino](https://docs.google.com/spreadsheets/d/1DMyr9F-oCOqhltlvDeoa6yGi4uz3DfDS/edit?gid=237762157#gid=237762157)
 
-## Módulo 3
+### Módulo 3
 
 3.1 Instalação do Python
 [Windows](https://docs.google.com/presentation/d/1LZfKkNZDI739BLCrjWtix53LOTrVUnoRbu0e-_bTJu0/edit#slide=id.g18b39569217_0_0)
@@ -231,3 +231,9 @@
 8.1 [O que é MACHINE LEARNING? Introdução ao APRENDIZADO DE MÁQUINA | Machine Learning #1](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv6EuU821pKje6q-yfPMO8re&index=8)
 
 8.1 [Regressão Linear?. Um dos modelos de machine learning mais… | by Laura Damaceno | Medium](https://medium.com/@lauradatatalks/regress%C3%A3o-linear-6a7f247c3e29)
+
+8.3 [Entendendo Regressão Linear: as suposições por trás de tudo! | by Laura Damaceno | Medium](https://medium.com/@lauradamaceno/entendendo-regress%C3%A3o-linear-as-suposi%C3%A7%C3%B5es-por-tr%C3%A1s-de-tudo-d0e29004c7f8)
+
+8.3 [Desmistificando a Regressão Linear](https://www.youtube.com/watch?v=ZOk4cuwaon4)
+
+8.3 [Viés de Dados com Vivi Mota](https://www.youtube.com/watch?v=k_fOVk-o4Iw)
