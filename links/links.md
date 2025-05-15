@@ -237,3 +237,11 @@
 8.3 [Desmistificando a Regressão Linear](https://www.youtube.com/watch?v=ZOk4cuwaon4)
 
 8.3 [Viés de Dados com Vivi Mota](https://www.youtube.com/watch?v=k_fOVk-o4Iw)
+
+9.5 [Referências para ir além - PrograMaria Sprint de Dados](https://www.programaria.org/ciencia-dados-referencias-ir-alem/?_gl=1*5oujxs*_ga*MTIxMTUzMDI2MC4xNzQxMzg1OTk5*_ga_CWF88KQ9ZH*czE3NDczMzc2NDIkbzY3JGcxJHQxNzQ3MzQwMTAwJGoyNiRsMCRoMA..)
+
+9.5 [UNIVESP - Universidade pública exclusivamente voltado para educação à distância](https://univesp.br/cursos)
+
+9.5 [Canal Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
+
+9.5 [Roda de conversa sobre "Tecnologia sob lentes feministas"](https://www.youtube.com/watch?v=5wMazziU8pk)
